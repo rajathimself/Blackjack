@@ -1,6 +1,6 @@
 # IMPORTS
 
-from Deck import *
+from Deck import Deck
 from Hand import *
 from Chips import *
 
